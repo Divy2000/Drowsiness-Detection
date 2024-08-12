@@ -50,11 +50,3 @@ This project aims to detect student drowsiness using real-time camera feeds or s
 2. **Usage**:
    - For live feed predictions, ensure your camera is connected and configured.
    - For video file predictions, specify the video file path in the script.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or contributions, please open an issue or submit a pull request.
